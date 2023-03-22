@@ -1,4 +1,17 @@
 {
+    "name": "sol-todo-list",
+    "version": "1.0.0",
+    "description": "Blockchain Todo List Powered By Ethereum",
+    "main": "truffle-config.js",
+    "directories": {
+      "test": "test"
+    },
+    "scripts": {
+      "dev": "lite-server",
+      "test": "echo \"Error: no test specified\" && sexit 1"
+    },
+    "author": "roshanlaldia@outlook.com",
+    "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.2.3",
     "chai": "^4.3.7",
