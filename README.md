@@ -1,16 +1,11 @@
-# Title
-### Solidity Todo List
-//create a title for the project
+# Solidity Todo List
 
-## Description
-//create a description for the project
-
-## Table of Contents
-//create a table of contents for the project
+## An Todo List built with Solidity
 
 ## Installation
 //create a section for installation instructions
+#### will be updated soon
 
 ## Usage
 //create a section for usage information
-
+### will be updated soon
