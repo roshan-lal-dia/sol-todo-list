@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "chai": "^4.3.7",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.1.0",
+    "lite-server": "^2.6.1",
+    "nodemon": "^2.0.21",
+    "truffle": "^5.7.9",
+    "truffle-contract": "^4.0.31"
+  }
+}
