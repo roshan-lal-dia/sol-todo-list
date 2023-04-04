@@ -1,4 +1,6 @@
-window.addEventListener('load', async () => {
+import Contract from "truffle-contract/lib/contract";
+
+App = window.addEventListener('load', async () => {
   load = await loadContract();
 });
 
@@ -35,6 +37,7 @@ web3.eth.getAccounts()
   //load contract
   const loadContract = async () => {
     const todoList = await $.getJSON('TodoList.json');
+    Contract
     console.log(todoList);
   }
 
