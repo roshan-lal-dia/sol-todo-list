@@ -9919,10 +9919,16 @@
       "links": {},
       "address": "0xA9C160542B29B9d073c050EdF5606e3EE3e31Cc5",
       "transactionHash": "0x40b8c0769436fd21ce5e5a883de1c955edb271718a5d21e6c4e5cefe6adbd4c2"
+    },
+    "1679544553937": {
+      "events": {},
+      "links": {},
+      "address": "0xAA39dB5A7aad0F5C5b754598dae7fe09eb597cFf",
+      "transactionHash": "0xfaa8e2316fee89faa00c963ac45b902e5b49d6fd1ad3005d3319976594372010"
     }
   },
   "schemaVersion": "3.4.13",
-  "updatedAt": "2023-03-22T20:03:31.387Z",
+  "updatedAt": "2023-03-23T04:11:56.727Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
