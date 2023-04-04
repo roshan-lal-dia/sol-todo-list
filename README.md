@@ -8,4 +8,4 @@
 
 ## Usage
 
-### will be updated soon
+### Tried to build with a 4year old tuturial, couldn't follow along, new version will be updated when I'm bored
