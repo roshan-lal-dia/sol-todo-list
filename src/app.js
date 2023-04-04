@@ -1,4 +1,5 @@
 window.addEventListener('load', async () => {
+  load = await loadContract();
 });
 
 // create a new Web3 object using the MetaMask provider
@@ -30,5 +31,11 @@ web3.eth.getAccounts()
   .catch((error) => {
     console.error(error);
   });
+
+  //load contract
+  const loadContract = async () => {
+    const todoList = await $.getJSON('TodoList.json');
+    console.log(todoList);
+  }
 
 
